@@ -1,0 +1,2 @@
+rootProject.name = "HomeworkJDBC6"
+
